@@ -1,0 +1,36 @@
+{
+  "name": "otaniemi-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "d3": "^3.5.6",
+    "jquery": "^2.1.4",
+    "normalize.css": "^3.0.3",
+    "topojson": "^1.6.19"
+  },
+  "devDependencies": {
+    "babel-core": "^5.8.25",
+    "babel-loader": "^5.3.2",
+    "babel-runtime": "^5.8.25",
+    "css-loader": "^0.20.1",
+    "file-loader": "^0.8.4",
+    "html-loader": "^0.3.0",
+    "html-webpack-plugin": "^1.6.2",
+    "style-loader": "^0.12.4",
+    "url-loader": "^0.5.6"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/...git"
+  },
+  "author": "Hung-Han Chen <chenhungh@gmail.com> (http://chenhunghan.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}

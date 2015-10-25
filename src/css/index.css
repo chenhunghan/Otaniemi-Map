@@ -1,0 +1,12 @@
+.mappoint {
+    fill: rgba(255,0,0,0.1);
+}
+.mappath {
+    fill: none;
+    stroke: black;
+    stroke-width:0.3px;
+}
+
+.hide {
+    opacity: 0;
+}
