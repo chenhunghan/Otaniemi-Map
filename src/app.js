@@ -32,5 +32,10 @@ d3.json("json/map.topojson", function(error, json) {
             else {
                 return 'mappath'
             }
-    })
+
+    }).on("mouseover", function(){
+            d3.select(this).style("fill", "rgba(0,0,255,0.3");}
+    ).on("mouseout", function(){
+            d3.select(this).style("fill", "rgba(0,0,0,0");}
+    );
 });
